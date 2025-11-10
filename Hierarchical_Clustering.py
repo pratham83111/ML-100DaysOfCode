@@ -71,3 +71,4 @@ print(data.head())
 
 print("\n📊 Cluster Summary (Mean Values):")
 print(data.groupby('Cluster').mean())
+e 
